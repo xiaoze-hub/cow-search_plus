@@ -1,0 +1,7 @@
+{
+    "bing_subscription_key": "your_bing_api_key",
+    "search_count": 5,
+    "prefix": ["搜索", "search"],
+    "summary_prompt": "请对以下搜索结果进行总结，突出重要信息，以清晰的方式呈现：\n\n{search_results}\n\n总结：",
+    "max_tokens": 800
+}

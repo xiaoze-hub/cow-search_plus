@@ -1,0 +1,2 @@
+azure-cognitiveservices-search-websearch>=2.0.0
+google.generativeai>=0.3.0
