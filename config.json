@@ -1,5 +1,5 @@
 {
-    "bing_subscription_key": "a8015017f791477caf9430c1230946c5",
+    "bing_subscription_key": "key",
     "search_count": 5,
     "prefix": ["搜索", "search"],
     "prompts": {
